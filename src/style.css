@@ -3,9 +3,21 @@ p {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.color1{
-  color: brown;
+.color1 {
+  color: rgb(255, 255, 255);
+  background-color: black;
+  width: max-content;
+  margin: 1rem;
+  padding: 1rem;
+  border: 3px solid yellow;
+  border-radius: 1rem;
 }
-.color2{
-  color:blueviolet
+.color2 {
+  color: rgb(32, 119, 0);
+  background-color: rgb(198, 255, 91);
+  width: max-content;
+  margin: 1rem;
+  padding: 1rem;
+  border: 3px solid rgb(6, 85, 0);
+  border-radius: 50%;
 }
